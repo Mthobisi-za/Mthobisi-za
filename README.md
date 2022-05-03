@@ -5,9 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mthobisi-za" alt="mthobisi-za" /></a> </p>
 
-- 🔭 I’m currently working on [a side project](http://www.edknow.co.za/)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **VUE JS**
 
 - 👨‍💻 All of my projects are available at [https://mtho-portfolio.herokuapp.com/](https://mtho-portfolio.herokuapp.com/)
 
